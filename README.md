@@ -54,4 +54,3 @@ MongoDB Certified DBA
 </tr>
 </table>
 
-Madrid, Spain
