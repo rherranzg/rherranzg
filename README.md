@@ -33,17 +33,13 @@ BigQuery · Pub/Sub · dbt
 
 ### Certifications
 
-**AWS** — Professional<br>
-Solutions Architect · DevOps Engineer
-
-**AWS** — Specialty<br>
-Data Analytics · Machine Learning<br>
-Advanced Networking · Big Data
-
-**Google Cloud**<br>
-Professional Cloud Architect
-
-**Other**<br>
+AWS Solutions Architect — Professional<br>
+AWS DevOps Engineer — Professional<br>
+AWS Data Analytics — Specialty<br>
+AWS Machine Learning — Specialty<br>
+AWS Advanced Networking — Specialty<br>
+AWS Big Data — Specialty<br>
+Google Professional Cloud Architect<br>
 Cloudera Administrator (Hadoop)<br>
 MongoDB Certified DBA
 
