@@ -54,6 +54,4 @@ MongoDB Certified DBA
 </tr>
 </table>
 
-[LinkedIn](https://linkedin.com/in/raul-herranz)
-
 Madrid, Spain
