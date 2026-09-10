@@ -8,31 +8,49 @@ I started out as a systems administrator in 2009 and moved through cloud consult
 data engineering. Along the way: fintech and e-commerce in London, real estate in Madrid.
 The sysadmin years turn out to be useful more often than you'd expect.
 
-## What I work with
+<table>
+<tr>
+<td valign="top" width="50%">
 
-**Python** — Lambdas, GraphQL resolvers, data processing
+### What I work with
+
+**Python**<br>
+Lambdas · GraphQL resolvers · data processing<br>
 pytest · type hints · mypy · pre-commit
 
-**AWS** — Lambda · DynamoDB · S3 · Kinesis · EventBridge · Fargate · OpenSearch · Athena · Glue
+**AWS**<br>
+Lambda · DynamoDB · S3 · Kinesis · EventBridge<br>
+Fargate · OpenSearch · Athena · Glue
 
-**Infra & CI** — Terraform · GitHub Actions
+**Infra & CI**<br>
+Terraform · GitHub Actions
 
-**GCP** — BigQuery · Pub/Sub · dbt
+**GCP**<br>
+BigQuery · Pub/Sub · dbt
 
-## Certifications
+</td>
+<td valign="top" width="50%">
 
-| | |
-|---|---|
-| AWS Solutions Architect | Professional |
-| AWS DevOps Engineer | Professional |
-| AWS Data Analytics | Specialty |
-| AWS Machine Learning | Specialty |
-| AWS Advanced Networking | Specialty |
-| AWS Big Data | Specialty |
-| Google Cloud Architect | Professional |
-| Cloudera Certified Administrator | Apache Hadoop |
-| MongoDB Certified DBA | Associate |
+### Certifications
 
-## Elsewhere
+**AWS** — Professional<br>
+Solutions Architect · DevOps Engineer
 
-[LinkedIn](https://linkedin.com/in/raul-herranz) · Madrid, Spain
+**AWS** — Specialty<br>
+Data Analytics · Machine Learning<br>
+Advanced Networking · Big Data
+
+**Google Cloud**<br>
+Professional Cloud Architect
+
+**Other**<br>
+Cloudera Administrator (Hadoop)<br>
+MongoDB Certified DBA
+
+</td>
+</tr>
+</table>
+
+[LinkedIn](https://linkedin.com/in/raul-herranz)
+
+Madrid, Spain
