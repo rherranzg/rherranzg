@@ -1,10 +1,10 @@
 # Hi, I'm Raúl 👋
 
-Data engineer based in Madrid. Currently Head of Data at
+Data engineer based in Madrid. Currently doing data stuff at
 [Residelia](https://residelia.com), a PropTech startup, where I look after the data
-architecture and the platforms built on top of it.
+architecture and the platforms.
 
-I started out as a systems administrator in 2009 and moved through cloud consulting into
+I started out as a sysadmin in 2009 and moved through cloud consulting into
 data engineering. Along the way: fintech and e-commerce in London, real estate in Madrid.
 The sysadmin years turn out to be useful more often than you'd expect.
 
